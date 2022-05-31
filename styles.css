@@ -29,6 +29,7 @@ header .logo {
   font-size: 2em;
   text-transform: uppercase;
   letter-spacing: 2px;
+  margin-left: 20px;
 }
 header ul {
   display: flex;
@@ -90,7 +91,7 @@ section img#mountains_front {
   right: -350px;
   color: #fff;
   white-space: nowrap;
-  font-size: 9vw;
+  font-size: 8vw;
   z-index: 9;
 }
 #btn {
